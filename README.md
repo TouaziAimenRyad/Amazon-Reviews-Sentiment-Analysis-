@@ -1,4 +1,3 @@
-Sure, let's break down the provided code into sections and provide theoretical explanations for each part:
 
 ### Section 1: Importing Libraries
 
